@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\libs\json-simple-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-simple-1.1.1_edbeaf410cb4395d79a55fa6a342c3be21d7acb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_65b3d1f94f726369c95f6dd51832189a865ffc80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tyler\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_b247f1db1e5fda64167fb77840c379f9b9e84fba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf69c2aba4098b1901d1cc1263492fea450d7989">
+        <dex dex="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e211fecc1d38f7b48cc96ddacf88525f29110643\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8f61e843d3d0d7c950ef95b71f47b7b9a45185f9">
+        <dex dex="C:\Users\Tyler\Documents\Android_Projects\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b5540c312283b40fb98695e2bdc8f643fe2abe98\classes.dex" />
+    </item>
+
+</items>
